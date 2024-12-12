@@ -83,7 +83,7 @@
 
     /* Main Heading (h2) Styling */
     main h2 {
-      font-family: 'Playfair Display', serif !important;
+      font-family: 'Poppins', sans-serif ;
       font-size: 2.0rem;
       font-weight: bold;
       color: #2c3e50;
